@@ -19,8 +19,8 @@ AAS_credits = 60
 BS_credits = 120
 # print out the following using the variables that you have just created.
 # 			 'I have taken .... number of credits
-# 			 'I have taken .... number of credits left until AAS degree (perform calculation)
-# 			 'I have taken .... number of credits left until BS degree (perform calculation)
+# 			 'I have .... number of credits left until AAS degree (perform calculation)
+# 			 'I have .... number of credits left until BS degree (perform calculation)
 # 			 'I have .... percentage of AAS degree completed(perform calculation)
 # 			 'I have .... percentage of BS degree completed(perform calculation)
 # 			 'I have about .... number of classes left until AAS degree (perform calculation use 3 credit average class)
